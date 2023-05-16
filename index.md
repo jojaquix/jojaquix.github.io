@@ -9,5 +9,8 @@ spend time learning new languages, technologies and paradigms.
 
 - [C++](cpp.md)
 - C
+- Rust
+- Erlang
+- [Julia](julia.md)
 - Object Pascal
 
