@@ -13,4 +13,5 @@ spend time learning new languages, technologies and paradigms.
 - Erlang
 - [Julia](julia.md)
 - Object Pascal
+- Electronics (Arduino, FPGAS, RISC V Boards) 
 
